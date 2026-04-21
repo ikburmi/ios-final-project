@@ -1,0 +1,22 @@
+# Encore
+## Description
+Encore is a concert rating app where users can search for past concerts, rate them across various categories, and keep a log of every show they've attended. It was made with Swift, SwiftUI, SwiftData, and Setlist.fm API.
+## Features
+- Search by artist to find concert and tour data from Setlist.fm
+- Rate the concert by Vocals, Setlist, Venue, and Visual Production to assign the concert an auto-calculated overall score
+- Edit ratings for previous concerts by searching for them again
+- View and delete past concerts on your profile
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/62ae774a-0b61-45aa-9779-e778ac8521d2" width = "25%">
+  <img src="https://github.com/user-attachments/assets/fd92909d-7e2f-4f1d-9fd0-1358769d7c95" width = "25%">
+  <img src="https://github.com/user-attachments/assets/1999eaca-4d06-4098-804f-d03b4a93c11e" width = "25%">
+</div>
+
+## Future Iterations
+- Adding concert images to your description
+- Viewing other profiles and their concert ratings
+- A yearly review which displays stats on your average ratings, top genres, etc.
+## Credits
+Concert data provided by Setlist.fm API
+## Demonstration
+<img width="233" height="480" alt="Image" src="https://github.com/user-attachments/assets/7bd8d737-13fe-4ed4-8a1f-d103ae3cd56a" /> 
