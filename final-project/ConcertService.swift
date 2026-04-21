@@ -7,7 +7,7 @@
 import Foundation
 
 class ConcertService{
-    func searchSetlists(artistName: String) async throws -> [Setlist] {
+    static func searchSetlists(artistName: String) async throws -> [Setlist] {
         let query = artistName.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed) ?? ""
         let url = URL(string: "https://api.setlist.fm/rest/1.0/search/setlists?artistName=\(query)")!
         
