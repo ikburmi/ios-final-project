@@ -10,9 +10,7 @@ Encore is a concert rating app where users can search for past concerts, rate th
 - Rate the concert by Vocals, Setlist, Venue, and Visual Production to assign the concert an auto-calculated overall score
 - Edit ratings for previous concerts by searching for them again
 - View and delete past concerts on your profile
-<img width="233" height="480" alt="Screenshot 2026-04-20 at 10 38 17 PM" src="https://github.com/user-attachments/assets/ea5753ed-3aaa-46c4-84f6-7ac1c3daae88" />
-<img width="233" height="480" alt="Screenshot 2026-04-20 at 10 38 31 PM" src="https://github.com/user-attachments/assets/fd92909d-7e2f-4f1d-9fd0-1358769d7c95" />
-<img width="233" height="480" alt="Screenshot 2026-04-20 at 10 38 36 PM" src="https://github.com/user-attachments/assets/3f2f3239-6acd-4439-bde3-021a2a4e5132" />
+<img width="233" height="480" alt="Screenshot 2026-04-20 at 10 38 17 PM" src="https://github.com/user-attachments/assets/ea5753ed-3aaa-46c4-84f6-7ac1c3daae88" /><img width="233" height="480" alt="Screenshot 2026-04-20 at 10 38 31 PM" src="https://github.com/user-attachments/assets/fd92909d-7e2f-4f1d-9fd0-1358769d7c95" /><img width="233" height="480" alt="Screenshot 2026-04-20 at 10 38 36 PM" src="https://github.com/user-attachments/assets/3f2f3239-6acd-4439-bde3-021a2a4e5132" />
 
 ## Credits
 Concert data provided by Setlist.fm API
