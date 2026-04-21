@@ -13,7 +13,7 @@ Encore is a concert rating app where users can search for past concerts, rate th
 <div align="center">
   <img src="https://github.com/user-attachments/assets/62ae774a-0b61-45aa-9779-e778ac8521d2" width = "25%">
   <img src="https://github.com/user-attachments/assets/fd92909d-7e2f-4f1d-9fd0-1358769d7c95" width = "25%">
-  <img src="https://github.com/user-attachments/assets/9c0dfeba-3cc3-4114-bc7e-791ddbdebbcf" width = "25%">
+  <img src="https://github.com/user-attachments/assets/b089faf0-fdf8-48fe-b3b8-7af15526daa8" width = "25%">
 </div>
 
 ## Credits
