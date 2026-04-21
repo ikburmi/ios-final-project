@@ -13,4 +13,4 @@ Encore is a concert rating app where users can search for past concerts, rate th
 ## Credits
 Concert data provided by Setlist.fm API
 ## Demonstration
-<img width="466" height="960" alt="Image" src="https://github.com/user-attachments/assets/7bd8d737-13fe-4ed4-8a1f-d103ae3cd56a" /> 
+<img width="233" height="480" alt="Image" src="https://github.com/user-attachments/assets/7bd8d737-13fe-4ed4-8a1f-d103ae3cd56a" /> 
